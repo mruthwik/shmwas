@@ -1,0 +1,2 @@
+def today():
+    return "today"
